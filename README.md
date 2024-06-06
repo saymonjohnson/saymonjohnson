@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🔭 Estou procurando vaga como desenvolvedor para me aprimorar ainda mais<br><br>🌱 Atualmente estou estudando Java <br><br>⚡Um fato curioso: Adoro vôlei</p>
+<p align="left">🔭 Estou procurando vaga como desenvolvedor back-end para me aprimorar ainda mais<br><br>🌱 Atualmente estou estudando Java <br><br>⚡Um fato curioso: Adoro vôlei</p>
 
 ###
 
