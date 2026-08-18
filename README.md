@@ -7,8 +7,8 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saymonjohnson&show_icons=true&theme=gotham&locale=pt-br&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saymonjohnson&layout=compact&langs_count=5&theme=gotham&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=saymonjohnson&show_icons=true&theme=gotham&locale=pt-br&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saymonjohnson&layout=compact&langs_count=5&theme=gotham&locale=pt-br" height="150" alt="Linguagens mais usadas" />
 </div>
 
 <br>
