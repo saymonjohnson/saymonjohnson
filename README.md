@@ -39,9 +39,6 @@
 
 <h2 align="left">Contatos</h2>
 
-<div align="left">
-  <a href="https://wa.me/5531999848703" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/saymon-johnson/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
